@@ -7,6 +7,8 @@ pynmea2
 
 The `pynmea2` homepage is located at http://github.com/Knio/pynmea2
 
+NMEA data [NMEA](https://www.gpsinformation.org/dale/nmea.htm)
+
 ![Python version](https://img.shields.io/pypi/pyversions/pynmea2.svg?style=flat)
 [![Build status](https://img.shields.io/travis/Knio/pynmea2/master.svg?style=flat)](https://travis-ci.org/Knio/pynmea2)
 [![Coverage status](https://img.shields.io/coveralls/github/Knio/pynmea2/master.svg?style=flat)](https://coveralls.io/r/Knio/pynmea2?branch=master)
